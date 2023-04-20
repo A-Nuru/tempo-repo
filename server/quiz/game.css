@@ -1,0 +1,55 @@
+.logo {
+    position: fixed;
+    height: 250px;
+    /* set the height of the logo */
+    margin: 10px;
+    padding: 0px 10px;
+    /* add some margin around the logo */
+  
+  }
+.choice-container {
+display: flex;
+margin-bottom: 0.5em;
+width: 100%;
+font-size: 1.8rem;
+border: 0.1rem solid Orgb(86, 165, 235, 0.25);
+background-color: #D5FEFE;
+}
+.choice-container:hover {
+cursor: pointer;
+box-shadow:0 0.4rem 1.4rem 0 rgba(86, 185, 235, 0.5);
+transform: translateY(-0.1rem);
+transition: transform 150ms;
+}
+.choice-prefix {
+padding: 1.5rem 2.5rem;
+background-color: #6DA9E4;
+color: #D5FEFE;
+}
+.choice-text {
+padding: 1.5rem;
+width: 100%;
+}
+
+.correct {
+    background-color:#28a745;
+}
+
+.incorrect {
+    background-color: #dc3545;
+}
+
+ #hud{
+    display: flex;
+    justify-content: space-between;
+}
+
+.hud-prefix{
+    text-align: center;
+    font-size: 2rem;
+    color: #6DA9E4;
+}
+
+.hud-main-text{
+    text-align: center;
+}

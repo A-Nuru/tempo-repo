@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Congratulations!</title>
+    <link rel="stylesheet" href="end.css">
+    <link rel="stylesheet" href="app.css" />
+</head>
+<body>
+    <div class="container">
+        <div id="end" class="flex-center flex column"></div>
+        <h1>Congratulations!</h1>
+        <h1 id="finalScore">0</h1>
+        <button
+        type="submit"
+        class="btn"
+        id="saveScoreBtn"
+        onclick="saveHighScore(event)"
+        >
+        Save
+        </button>
+        <h2>We have collated all of your results. Based on your strengths, your ideal GCSE subjects are: </h2>
+        <p id="Subjects">Subjects</p>
+        <a class="btn" href="game.html">Play Again</a>
+        <a class="btn" href="index.html">Go Home</a>
+    </div>
+    <script src="end.js"></script>
+    <img class="logo" src="logo.png">
+</body>
+</html>

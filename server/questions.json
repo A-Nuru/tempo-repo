@@ -1,0 +1,344 @@
+[
+    {
+        "English-question1": "In The Lord of the Rings trilogy, what is the name of the wizard who helps Frodo and the other characters on their journey?",
+        "A": "Gandalf",
+        "B": "Dumbledore",
+        "C": "Merlin",
+        "D":  "Yoda",
+        "answer": "A"
+        },
+        {
+        "English-question2": "What is the name of the longest word in the English language?",
+        "A": "Pneumonoultramicroscopicsilicovolcanoconiosis",
+        "B": "Supercalifragilisticexpialidocious",
+        "C": "Antidisestablishmentarianism",
+        "D":  "Hippopotomonstrosesquippedaliophobia",
+        "answer": "A"
+        
+        },
+        {
+        "English-question3": "Which of these is not a character in The Great Gatsby?",
+        "A": "Daisy Buchanan",
+        "B": "Jay Gatsby",
+        "C": "Tom Sawyer",
+        "D":  "Nick Carraway",
+        "answer": "C"
+            
+        },
+         {
+        "English-question4": "What is the correct order of the Harry Potter books, starting with the first book?",
+        "A": "Sorcerer's Stone, Chamber of Secrets, Prisoner of Azkaban, Goblet of Fire, Order of Phoenix, Half-Blood Prince, Deathly Hallows",
+        "B": "Chamber of Secrets, Sorcerer's Stone, Prisoner of Azkaban, Goblet of Fire, Order of Phoenix, Half-Blood Prince, Deathly Hallows",
+        "C": "Sorcerer's Stone, Chamber of Secrets, Goblet of Fire, Prisoner of Azkaban, Order of Phoenix, Half-Blood Prince, Deathly Hallows",
+        "D":  "Sorcerer's Stone, Chamber of Secrets, Prisoner of Azkaban, Goblet of Fire, Half-Blood Prince, Order of Phoenix, Deathly Hallows",
+        "answer": "A"
+                
+        },
+        {
+        "English-question5": "In the novel Animal Farm by George Orwell, which animal represents Joseph Stalin?",
+        "A": "Napoleon",
+        "B": "Snowball",
+        "C": "Squealer",
+        "D":  "Boxer",
+        "answer": "A"
+                    
+       
+    },
+    { 
+        "Art_and_Design-question1": "What is the name of the famous painting by Edvard Munch that depicts a person screaming?",
+        "A": "The Scream",
+        "B": "The Shout",
+        "C": "The Cry",
+        "D":  "The Yell",
+        "answer": "A"
+        },
+        {
+        "Art_and_Design-question2": "Which of these is not a type of sculpture?",
+        "A": "Kinetic",
+        "B": "Installation",
+        "C": "Relief",
+        "D":  "Hue",
+        "answer": "D"
+        
+        },
+        {
+        "Art_and_Design-question3": "What is the name of the French artist who created the painting Starry Night?",
+        "A": "Vincent van Gogh",
+        "B": "Claude Monet",
+        "C": "Pablo Picasso",
+        "D":  "Salvador Dali",
+        "answer": "A"
+            
+        },
+         {
+        "Art_and_Design-question4": "What is the name of the art style that uses bright colors and bold designs to create a psychedelic effect?",
+        "A": "Pop Art",
+        "B": "Cubism",
+        "C": "Fauvism",
+        "D":  "Op Art",
+        "answer": "D"
+                
+        },
+        {
+        "Art_and_Design-question5": "Which of these is not a famous art museum in the world?",
+        "A": "Louvre Museum",
+        "B": "Tate Modern",
+        "C": "Metropolitan Museum of Art",
+        "D":  "Smithsonian National Air and Space Museum",
+        "answer": "D"
+                    
+       
+    },
+    { 
+        "Citizenship-question1": "What is the name of the British political party that is currently in power?",
+        "A": "Labour Party",
+        "B": "Liberal Democrats",
+        "C": "Conservative Party",
+        "D":  "Green Party",
+        "answer": "C"
+        },
+        {
+        "Citizenship-question2": "In the UK, what is the name of the event where voters cast their ballots in a general election?",
+        "A": "Polling Day",
+        "B": "Voting Day",
+        "C": "Election Day",
+        "D":  "Democracy Day",
+        "answer": "A"
+        
+        },
+        {
+        "Citizenship-question3": "What is the name of the process of impeaching a US president?",
+        "A": "Derailing",
+        "B": "Overturning",
+        "C": "Removal",
+        "D":  "Impeachment",
+        "answer": "D"
+            
+        },
+         {
+        "Citizenship-question4": "Which of these countries was the first to give women the right to vote?",
+        "A": "United States",
+        "B": "Canada",
+        "C": "New Zealand",
+        "D":  "United Kingdom",
+        "answer": "C"
+                
+        },
+        {
+        "Citizenship-question5": "What is the term for a person who is not a citizen of the country they are living in?",
+        "A": "Foreigner",
+        "B": "Alien",
+        "C": "Stranger",
+        "D":  "Visitor",
+        "answer": "A"
+                    
+        
+    },{
+        "Geography-question1": "What is the highest mountain in the world?",
+        "A": "Mount Kilimanjaro",
+        "B": "Mount Everest",
+        "C": "Mount Fuji",
+        "D":  "Mount Olympus",
+        "answer": "B"
+        },
+        {
+        "Geography-question2": "Which of these countries is the smallest by land area?",
+        "A": "Monaco",
+        "B": "Singapore",
+        "C": " Vatican City",
+        "D":  "Liechtenstein",
+        "answer": "C"
+        
+        },
+        {
+        "Geography-question3": "What is the largest ocean in the world?",
+        "A": "Indian Ocean",
+        "B": "Atlantic Ocean",
+        "C": "Pacific Ocean",
+        "D":  "Arctic Ocean",
+        "answer": "C"
+            
+        },
+         {
+        "Geography-question4": "What is the name of the large desert in Africa that spans multiple countries?",
+        "A": "Sahara Desert",
+        "B": "Mojave Desert",
+        "C": " Gobi Desert",
+        "D":  "Atacama Desert",
+        "answer": "A"
+                
+        },
+        {
+        "Geography-question5": "Which of these is not a European country?",
+        "A": "Belgium",
+        "B": "Jordan",
+        "C": "Greece",
+        "D":  "Norway",
+        "answer": "B"
+                    
+        },
+    { 
+        "History-question1": "What year did World War II end?",
+        "A": "1945",
+        "B": "1939",
+        "C": "1951",
+        "D":  "1965",
+        "answer": "A"
+        },
+        {
+        "History-question2": "Which of these countries was not part of the Allied Powers in World War II?",
+        "A": "United States",
+        "B": "Soviet Union",
+        "C": "Germany",
+        "D":  "United Kingdom",
+        "answer": "C"
+        
+        },
+        {
+        "History-question3": "Who was the first president of the United States?",
+        "A": " Thomas Jefferson",
+        "B": "George Washington",
+        "C": "John F. Kennedy",
+        "D":  "Abraham Lincoln",
+        "answer": "B"
+            
+        },
+         {
+        "History-question4": "In what year did India gain independence from British rule?",
+        "A": "1947",
+        "B": "1951",
+        "C": "1960",
+        "D":  "1975",
+        "answer": "A"
+                
+        },
+        {
+        "History-question5": "Which of these was not a Roman emperor?",
+        "A": "Julius Caesar",
+        "B": "Augustus",
+        "C": "Nero",
+        "D":  "Alexander the Great",
+        "answer": "D"
+                    
+        },
+    { 
+        "Languages-question1": "What is the most widely spoken language in the world?",
+        "A": "English",
+        "B": "Spanish",
+        "C": " Mandarin",
+        "D":  "French",
+        "answer": "C"
+        },
+        {
+        "Languages-question2": "Which language has the most words?",
+        "A": "English",
+        "B": "Russian",
+        "C": "Arabic",
+        "D":  "German",
+        "answer": "A"
+        
+        },
+        {
+            "Languages-question3": "What is the only language that is also an Olympic event?",
+            "A": "Gandalf",
+            "B": "French",
+            "C": "Spanish",
+            "D":  "English",
+            "answer": "D"
+            },
+    {
+        "Languages-question4": "What is the longest word in the English language?",
+        "A": "Antidisestablishmentarianism",
+        "B": "Supercalifragilisticexpialidocious",
+        "C": "Pneumonoultramicroscopicsilicovolcanoconiosis",
+        "D":  "Hippopotomonstrosesquipedaliophobia",
+        "answer": "C"
+        },
+        {
+        "Languages-question5": "What language is spoken in Brazil?",
+        "A": "Portuguese",
+        "B": "Spanish",
+        "C": "French",
+        "D":  "Italian",
+        "answer": "A"
+        },
+        { 
+        "Music-question1": "What is the name of Beyoncé's alter ego?",
+        "A": "Sasha Fierce",
+        "B": "Lady Gaga",
+        "C": "Pink",
+        "D":  "Rihanna",
+        "answer": "A"
+        },
+        {
+        "Music-question2": "Who wrote the hit song 'Thriller'?",
+        "A": "Michael Jackson",
+        "B": "Prince",
+        "C": "Madonna",
+        "D":  "Whitney Houston",
+        "answer": "A"
+        },
+        {
+        "Music-question3": "Which of these is not a type of musical instrument?",
+        "A": "Trumpet",
+        "B": "Tuba",
+        "C": "Triangle",
+        "D":  "Trampoline",
+        "answer": "D"
+        },
+        {
+        "Music-question4": "What is the name of the lead singer of the band Coldplay?",
+        "A": "Chris Martin",
+        "B": "Liam Gallagher",
+        "C": "Bono",
+        "D":  "Dave Grohl",
+        "answer": "A"
+        },
+        {
+        "Music-question5": "Which band performed the hit song 'Stairway to Heaven'?",
+        "A": "The Rolling Stones",
+        "B": "Led Zeppelin",
+        "C": "Pink Floyd",
+        "D":  "The Beatles",
+        "answer": "B"
+        },
+    {   "Physical Education-question1": "What is the name of the largest muscle in the human body?",
+        "A": "Biceps",
+        "B": "Hamstring",
+        "C": "Gluteus maximus",
+        "D":  "Pectoralis major",
+        "answer": "C"
+        },
+        {
+        "Physical Education-question2": "What is the name of the system that controls the body's movements?",
+        "A": "Nervous system",
+        "B": "Digestive system",
+        "C": "Respiratory system",
+        "D":  "Cardiovascular system",
+        "answer": "A"
+        },
+        {
+        "Physical Education-question3": "What is the minimum amount of exercise recommended per day for adults?",
+        "A": "5 minutes",
+        "B": "30 minutes",
+        "C": "1 hour",
+        "D":  "2 hour",
+        "answer": "B"
+        },
+        {
+        "Physical Education-question4": "Which of these is not a type of stretching?",
+        "A": "Static stretching",
+        "B": "Dynamic stretching",
+        "C": "Acrobatic stretching",
+        "D":  "Ballistic stretching",
+        "answer": "C"
+        },
+        {
+        "Physical Education-question5": "What is the name of the highest score achievable in gymnastics?",
+        "A": "Perfect 10",
+        "B": "Superb 7",
+        "C": "Excellent 9",
+        "D":  "Magnificent 8",
+        "answer": "A"
+        }
+    ]

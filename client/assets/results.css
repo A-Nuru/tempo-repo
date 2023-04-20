@@ -1,0 +1,75 @@
+body {
+    margin: 0 auto;
+    background-image: url(./images/25235.jpg);
+    background-size: cover;
+    font-family: monospace;
+    padding: 1rem;
+  }
+
+/* Logo */
+.logo {
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 60px;
+    /* set the height of the logo */
+    margin: 10px;
+    padding: 0px 10px;
+    /* add some margin around the logo */
+  
+  }
+
+  section {
+    /* position: absolute;
+    left: 50%;
+    top: 50%;
+    width: 70%;
+    min-height: 50%;
+    transform: translate(-50%, -50%); */
+  
+    padding: 0.5rem;
+    margin: 30px;
+    
+    background-color: #001038;
+    color: white;
+    opacity: 0.7;
+    /* background-color: rgba(255, 255, 255, 0.7); */
+    border-radius: 1rem;
+  
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+  }
+
+   /*--------------------------- final-result ----------------------------------- */
+   .congrats {
+    font-weight: bold;
+    font-size: 30px;
+   }
+   #final-result {
+    font-family: monospace;
+    margin: 60px 100px 0px 100px;
+    text-align: center;
+   }
+
+   .text {
+    font-size: 20px;
+   }
+
+   #subjects {
+    font-weight: bold;
+   }
+
+    /*--------------------------- Subject-info ----------------------------------- */
+    #subject-info {
+        opacity: 0.7;
+        font-size: 24px;
+        margin: 60px 100px 0px 100px;
+        padding: 20px;
+    }
+    /*--------------------------- Carousel ----------------------------------- */
+    #carouselExampleIndicators{
+        padding: 0px 130px 10px 130px;
+
+    }

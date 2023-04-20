@@ -1,0 +1,11 @@
+.logo {
+    position: fixed;
+    height: 250px;
+    /* set the height of the logo */
+    margin: 10px;
+    padding: 0px 10px;
+    /* add some margin around the logo */
+  
+  }
+
+
